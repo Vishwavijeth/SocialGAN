@@ -17,9 +17,6 @@ Our model consists of three key components: Generator (G), Pooling Module (PM) a
   <img src='images/model.png' width='1000px'>
 </div>
 
-## Setup
-All code was developed and tested on Ubuntu 16.04 with Python 3.5 and PyTorch 0.4.
-
 
 ## Pretrained Models
 You can download pretrained models by running the script `bash scripts/download_models.sh`. This will download the following models:
